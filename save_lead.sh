@@ -1,0 +1,1 @@
+echo "Ibrahim | 03445566778 | 27 | Male | sharshab007@gmail.com | Dr. Ahmed | 2026-06-11 | 7:30 PM | Scheduled" >> /mnt/f/leads/leads.txt

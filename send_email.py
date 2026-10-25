@@ -1,0 +1,1 @@
+python3 -c "import yagmail; yag = yagmail.SMTP('ansaribest477@gmail.com', 'nnol znhk wwiz xqey'); yag.send('sharshab007@gmail.com', 'Appointment Confirmed — City Care Clinic', 'Dear Ibrahim, Your appointment is confirmed! Doctor: Dr. Ahmed Date: 2026-06-11 Time: 7:30 PM Fee: Rs. 1000. Please arrive 10 minutes early. City Care Clinic, Karachi.')"
